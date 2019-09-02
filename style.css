@@ -1,0 +1,14 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+.error{
+    color:red;
+}
+#result-container{
+    display:none;
+}
+
+td.reasonentry{
+  width: 20em;
+}
